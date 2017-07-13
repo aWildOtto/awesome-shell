@@ -8,6 +8,6 @@ commands will be numbered from 1 - 10
 it can re-execute one of the stored commands by using !(number)
 
 ## Getting start
-Compile `shell_sol.c` in Linux terminal
+Compile `shell_sol.c` using the `Makefile` in Linux terminal
 
 Run the compiled file
